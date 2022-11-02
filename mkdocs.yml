@@ -1,0 +1,4 @@
+site_name: Sonore
+theme: readthedocs
+markdown_extensions:
+  - attr_list
